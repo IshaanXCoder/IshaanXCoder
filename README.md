@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://www.canva.com/design/DAEhDbui09g/_-pYlNGZIWD3aukmYylXpw/watch?utm_content=DAEhDbui09g&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink "Header")](https://some-url.dev/)
 
 
 ### Konichiva Everybody! <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
