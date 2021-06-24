@@ -1,20 +1,23 @@
-[![Header](https://www.canva.com/design/DAEhDbui09g/_-pYlNGZIWD3aukmYylXpw/watch?utm_content=DAEhDbui09g&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink "Header")](https://some-url.dev/)
+<h1 align="center"> Konichiva Everybody!👋</h1>
+<h1 align="center"> I'm Ishaan kesarwani, a passionate Web developer⚡</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=IshaanXCoder&label=Profile%20views&color=0e75b6&style=flat" alt="IshaanXCoder" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IshaanXCoder" alt="IshaanXCoder" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/Ishhaaaaaaaan" target="blank"><img src="https://img.shields.io/twitter/follow/Ishhaaaaaaaan?logo=twitter&style=for-the-badge" alt="Ishhaaaaaaaan" /></a> </p>
+
+- 📫 How to reach me **kesarwaniishaan4@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/Ishhaaaaaaaan" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="Ishhaaaaaaaan" height="30" width="30" /></a>
+  
+<a href="https://instagram.com/picturesque_2006" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="picturesque_2006" height="30" width="30" /></a>
+  
+  
+</p>
 
 
-### Konichiva Everybody! <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
 
-
-<!--
-**IshaanXCoder/IshaanXCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IshaanXCoder&show_icons=true&locale=en" alt="IshaanXCoder" style=""/></p>
