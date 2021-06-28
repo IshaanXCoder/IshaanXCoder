@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/Ishhaaaaaaaan" target="blank"><img src="https://img.shields.io/twitter/follow/Ishhaaaaaaaan?logo=twitter&style=for-the-badge" alt="Ishhaaaaaaaan" /></a> </p>
 
-- 📫 How to reach me **kesarwaniishaan4@gmail.com**
+- 📫 Reach me at : **kesarwaniishaan4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
