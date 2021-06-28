@@ -1,7 +1,7 @@
-<h1 align="center"> Konichiva Everybody!</h1><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
+<h1 align="center"> Konichiva Everybody!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
          alt="Waving hand animated gif"
          height="45"
-         width="45" />
+         width="45" /></h1>
 <h1 align="center"> I'm Ishaan kesarwani, a passionate Web developer⚡</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IshaanXCoder&label=Profile%20views&color=0e75b6&style=flat" alt="IshaanXCoder" /> </p>
