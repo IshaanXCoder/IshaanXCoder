@@ -1,26 +1,44 @@
-<h1 align="center"> Konichiva Everybody!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
+ [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
+
+<img align="left" alt="Brain" width="300" src="http://gifimage.net/wp-content/uploads/2017/10/cerebro-gif-tumblr-3.gif">
+
+
+  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
+
+>  Konichiva Everybody!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
          alt="Waving hand animated gif"
          height="45"
-         width="45" /></h1>
-<h1 align="center"> I'm Ishaan kesarwani, a passionate Web developer⚡</h1>
+         width="45" />
+> 🧠 NM Just an enthusiast in WebDev🧑🏻‍💻
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=IshaanXCoder&label=Profile%20views&color=0e75b6&style=flat" alt="IshaanXCoder" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1626229/screenshots/14978408/media/55048f248647c65901935800b5838be6.jpg">
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/IshaanXCoder=ryo-ma&theme=flat"><img src="https://github-profile-trophy.vercel.app/?username=IshaanXCoder" alt="IshaanXCoder" /></a> </p>
+<br />
 
-<p align="left"> <a href="https://twitter.com/Ishhaaaaaaaan" target="blank"><img src="https://img.shields.io/twitter/follow/Ishhaaaaaaaan?logo=twitter&style=for-the-badge" alt="Ishhaaaaaaaan" /></a> </p>
+### My Podcast
 
-- 📫 Reach me at : **kesarwaniishaan4@gmail.com**
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="The Student Spotlight Podcast" width="350" />](https://open.spotify.com/show/48DzS7x134TsQuE7uvz9Wi)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Ishhaaaaaaaan" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="Ishhaaaaaaaan" height="30" width="30" /></a>
+
+
+### Languages and Tools:
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Github Desktop" width="26px" src="https://dl2.macupdate.com/images/icons256/39062.png?d=1522354604" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+
+
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+<br />
+
+### Connect with me:
+[![Yasmeen's github stats](https://github-readme-stats.vercel.app/api?username=YasPHP&theme=graywhite&show_icons=true&hide=issues,contribs&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)](https://github.com/YasPHP/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasPHP&layout=compact&show_icons=true&include_all_commits=true&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite)](https://github.com/YasPHP/github-readme-stats)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=YasPHP.visitor-badge)
   
-<a href="https://instagram.com/picturesque_2006" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="picturesque_2006" height="30" width="30" /></a>
-  
-  
-</p>
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IshaanXCoder&show_icons=true&locale=en" alt="IshaanXCoder" style=""/></p>
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
