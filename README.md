@@ -11,8 +11,7 @@
          width="45" />
          <br />
 
-• 🧠 NM Just an enthusiast in 
-WebDev🧑🏻‍💻
+• 🧠 NM Just an enthusiast in <br />WebDev🧑🏻‍💻
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1626229/screenshots/14978408/media/55048f248647c65901935800b5838be6.jpg">
 
