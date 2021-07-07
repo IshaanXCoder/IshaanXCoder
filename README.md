@@ -5,13 +5,13 @@
 
   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
 
->  Konichiva Everybody!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
+•  Konichiva Everybody!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
          alt="Waving hand animated gif"
          height="45"
          width="45" />
          <br />
 
-> 🧠 NM Just an enthusiast in WebDev🧑🏻‍💻
+• 🧠 NM Just an enthusiast in WebDev🧑🏻‍💻
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1626229/screenshots/14978408/media/55048f248647c65901935800b5838be6.jpg">
 
