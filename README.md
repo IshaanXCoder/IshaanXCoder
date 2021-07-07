@@ -16,6 +16,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1626229/screenshots/14978408/media/55048f248647c65901935800b5838be6.jpg">
 
 <br />
+<br />
+<br />
+<br />
 
 ### Languages and Tools:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
