@@ -11,7 +11,8 @@
          width="45" />
          <br />
 
-• 🧠 NM Just an enthusiast in WebDev🧑🏻‍💻
+• 🧠 NM Just an enthusiast in 
+WebDev🧑🏻‍💻
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1626229/screenshots/14978408/media/55048f248647c65901935800b5838be6.jpg">
 
@@ -37,7 +38,6 @@
 
 
 [![Ishaan's Github stats](https://github-readme-stats.vercel.app/api?username=IshaanXCoder&theme=graywhite&show_icons=true&hide=issues,contribs&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)](https://github.com/IshaanXCoder/github-readme-stats)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshaanXCoder&layout=compact&show_icons=true&include_all_commits=true&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite)](https://github.com/IshaanXCoder/github-readme-stats)
 
