@@ -13,8 +13,7 @@
 
 • 🧠 NM Just an enthusiast in WebDev🧑🏻‍💻
 
-<br />
-<br />
+<br/>
 <br />
 <br />
 
@@ -37,7 +36,7 @@
 ![Ishaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshaanXCoder&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshaanXCoder&layout=compact&show_icons=true&include_all_commits=true&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite)](https://github.com/IshaanXCoder/github-readme-stats style="align-right")
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshaanXCoder&layout=compact&show_icons=true&include_all_commits=true&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite)](https://github.com/IshaanXCoder/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=IshaanXCoder.visitor-badge)
   
