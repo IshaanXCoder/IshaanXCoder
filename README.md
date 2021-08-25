@@ -44,7 +44,7 @@
   
   
 <p align="center">
-  <img src="https://github.com/Sakshamlamba109/Sakshamlamba109/raw/output/github-contribution-grid-snake.svg"
+  <img src="https://github.com/IshaanXCoder/IshaanXCoder/raw/output/github-contribution-grid-snake.svg"
 alt="snake"></center>
 </p>
 
