@@ -43,10 +43,6 @@
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
   
   
-<p align="center">
-  <img src="https://github.com/IshaanXCoder/IshaanXCoder/raw/output/github-contribution-grid-snake.svg"
-alt="snake"></center>
-</p>
 
   
 
