@@ -35,12 +35,10 @@
 
 ![Ishaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshaanXCoder&show_icons=true&theme=radical)
 
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=IshaanXCoder&theme=radical">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshaanXCoder&layout=compact&show_icons=true&include_all_commits=true&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite)](https://github.com/IshaanXCoder/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=IshaanXCoder.visitor-badge)
-  
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
   
   
 
