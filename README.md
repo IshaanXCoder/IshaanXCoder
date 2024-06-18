@@ -27,7 +27,7 @@
 
 ![Ishaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshaanXCoder&show_icons=true&theme=radical)
 
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=IshaanXCoder&theme=radical">
+
 
 
   
