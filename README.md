@@ -21,11 +21,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishaan-kesarwani) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Ishhaaaaaaaan) 
 <br />
 
-![Ishaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshaanXCoder&show_icons=true&theme=radical)
+[![Ishaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshaanXCoder&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IshaanXCoder&theme=dark)](https://git.io/streak-stats)
   
 
   
