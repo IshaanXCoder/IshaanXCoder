@@ -1,33 +1,30 @@
  ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
-<h1 align="center">Konichivaa<g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">🧋</g-emoji>,  Myself Ishaan Kesarwani</h1>
-<h3 align="center"> Just an enthusiast in WebDev🧑🏻‍💻 Student at IIT Roorkee⚡️</h3>
+<h1 align="center">Konichivaa<g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">🧋</g-emoji> Myself Ishaan Kesarwani</h1>
+<h3 align="center"> Just an enthusiast who finds these green dots quite fascinating🧑🏻‍💻 Student at IIT Roorkee⚡️</h3>
 <img align="left" alt="Brain" width="300" src="http://gifimage.net/wp-content/uploads/2017/10/cerebro-gif-tumblr-3.gif">
 
 </br>
 
-##  🚀Languages/Tools:
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JS" width="26px" src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png" />
-<img align="left" alt="JS" width="26px" src="https://static-00.iconduck.com/assets.00/react-original-wordmark-icon-840x1024-vhmauxp6.png" />
-
-
-<img align="left" alt="VSC" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="CPP" width="26px" src="https://cdn.icon-icons.com/icons2/3398/PNG/512/plus_logo_c_icon_214621.png" />
+##  🚀Languages:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 </br>
 
 ##  🚀Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishaan-kesarwani) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Ishhaaaaaaaan) 
-<br />
 
-[![Ishaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshaanXCoder&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ishhaaaaaaaan) 
+[![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/lifewithishaaann/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishaan-kesarwani) 
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://x.com/Ishhaaaaaaaan)<br />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=IshaanXCoder&theme=github-green-purple&border_radius=4.7&hide_longest_streak=true)](https://git.io/streak-stats)  
-
-  
-
-
+![Ishaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshaanXCoder&show_icons=true&theme=chartreuse-dark&border_radius=4.7)
+[![GitHub Streak](https://streak-stats.demolab.com?user=IshaanXCoder&theme=github-green-purple&border_radius=4.7&hide_longest_streak=true&border=FFFFFF)](https://git.io/streak-stats)
 
 
+![GitHub Snake](https://github.com/IshaanXCoder/IshaanXCoder/blob/output/github-contribution-grid-snake.svg)
 
