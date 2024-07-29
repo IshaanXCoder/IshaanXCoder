@@ -26,5 +26,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=IshaanXCoder&theme=github-green-purple&border_radius=4.7&hide_longest_streak=true&border=FFFFFF)](https://git.io/streak-stats)
 
 
-![GitHub Snake](https://github.com/IshaanXCoder/IshaanXCoder/blob/output/github-contribution-grid-snake.svg)
-
+![GitHub Snake Animation](https://raw.githubusercontent.com/IshaanXCoder/IshaanXCoder/output/github-contribution-grid-snake.svg)
