@@ -23,8 +23,7 @@
 
 [![Ishaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshaanXCoder&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IshaanXCoder&theme=dark)](https://git.io/streak-stats)
-  
+[![GitHub Streak](https://streak-stats.demolab.com?user=IshaanXCoder&theme=github-green-purple&border_radius=4.7&hide_longest_streak=true)](https://git.io/streak-stats)  
 
   
 
