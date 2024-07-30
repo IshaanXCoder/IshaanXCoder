@@ -16,7 +16,8 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: IshaanXCoder
+          outputs: dist/snake.svg
 
       - name: Upload Snake
         uses: actions/upload-artifact@v3
