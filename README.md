@@ -17,6 +17,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-F694FF?style=for-the-badge&logo=clerk&logoColor=white)
 ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-0D0D0D?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 </br>
 
