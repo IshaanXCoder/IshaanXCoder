@@ -18,6 +18,8 @@
 ![Clerk](https://img.shields.io/badge/Clerk-F694FF?style=for-the-badge&logo=clerk&logoColor=white)
 ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-0D0D0D?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white)
 
 </br>
 
