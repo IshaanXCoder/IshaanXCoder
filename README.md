@@ -1,6 +1,6 @@
  ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 <h1 align="center">Konichivaa<g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">🧋</g-emoji> Myself Ishaan Kesarwani</h1>
-<h3 align="center"> Just an enthusiast who finds these green dots quite fascinating🧑🏻‍💻 Student at IIT Roorkee⚡️</h3>
+<h3 align="center"> Just an enthusiast who finds these green dots quite fascinating🧑🏻‍💻 Student at IIT Roorkee⚡️Getting rusty these days🦀</h3>
 <img align="left" alt="Brain" width="300" src="http://gifimage.net/wp-content/uploads/2017/10/cerebro-gif-tumblr-3.gif">
 
 </br>
