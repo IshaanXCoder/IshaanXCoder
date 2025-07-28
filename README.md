@@ -20,4 +20,3 @@
 
 ![Ishaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshaanXCoder&show_icons=true&theme=chartreuse-dark&border_radius=4.7&card_width=450)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=IshaanXCoder&theme=chartreuse-dark)](https://git.io/streak-stats)
