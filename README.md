@@ -18,5 +18,5 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://x.com/Ishhaaaaaaaan)<br />
 
 
-![Ishaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshaanXCoder&show_icons=true&theme=chartreuse-dark&border_radius=4.7&card_width=450)
+
 
