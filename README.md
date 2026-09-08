@@ -1,11 +1,13 @@
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
 <h1 align="center">gm 🧋 Myself Ishaan Kesarwani</h1>
-<h3 align="center">Just an enthusiast who finds these green dots quite fascinating 🧑🏻‍💻 Sophomore at IIT Roorkee ⚡️</h3>
+<h3 align="center"> sidequesting my life 🧑🏻‍💻 Pre-final at IIT Roorkee ⚡️</h3>
 
 <img align="left" alt="Brain" width="300" src="http://gifimage.net/wp-content/uploads/2017/10/cerebro-gif-tumblr-3.gif">
 
 </br>
+
+SDE @ [Paddox Technologies](https://paddoxtechnologies.com)
 
 ## 🚀 Languages & Tools:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
